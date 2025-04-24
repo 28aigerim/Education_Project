@@ -1,6 +1,7 @@
 # Education in Kyrgyzstan 
 ____
 **Data Ananlysis and Visualization Final Project**
+
 Student: Bekibaeva Aigerim MATDAIS23
 
 ### Presentation 
